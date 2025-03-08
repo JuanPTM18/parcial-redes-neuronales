@@ -1,0 +1,2 @@
+# parcial-redes-neuronales
+parcial
